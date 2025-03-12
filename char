@@ -1,0 +1,3 @@
+print("\nChr() values:")
+for num in range(97, 123):
+    print(f"chr({num}) = '{chr(num)}'")
